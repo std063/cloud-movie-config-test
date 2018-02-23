@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: cloud-movie
+
+management:
+  security:
+    enabled: false
+    
+server:
+  port: 8090
